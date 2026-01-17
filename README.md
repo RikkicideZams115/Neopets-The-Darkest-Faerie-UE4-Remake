@@ -9,7 +9,6 @@ Then click on the Levels tab next to the World Outline tab, select all the level
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-17 093147" src="https://github.com/user-attachments/assets/4c57d4c0-d450-4bd4-b647-6a2b3343d863" />
 
-
 After your viewport looks like mine, you can click play and run around the world. You should run it in a standalone game, which you can find with the dropdown arrow
 and select standalone game. Save anything that says it needs to save.
 
@@ -17,8 +16,7 @@ Wherever the Player Start is, is where the player will start. You can move it ar
 you want but there is a possibilty of falling through the world. Just make sure it is above the landscape enough.
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-17 095210" src="https://github.com/user-attachments/assets/ef414ff0-b83d-46a0-bbe7-32da9509f93f" />
-
-
+<img width="1920" height="100" alt="Sepperator" src="https://github.com/user-attachments/assets/bb20e8df-64da-418a-b00d-48c8a95fb010" />
 ![Screenshot (127)](https://github.com/user-attachments/assets/ccd02440-b220-41f2-bf3b-17a315b107b7)
 <img width="1928" height="1116" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/c6164208-db94-49f7-b54a-e67fdc725a2f" />
 <img width="1921" height="1113" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/7b0aeaf5-d064-4424-aca3-d05c5c27a0b3" />
