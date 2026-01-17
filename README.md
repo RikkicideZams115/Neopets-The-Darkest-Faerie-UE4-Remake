@@ -2,8 +2,7 @@
 
 Developed with Unreal Engine 4
 
-When UE4 opens and you get a black screen navigate to Content/Neopets_The_Darkest_Faerie/01-Maps-01/Neopia and double click the level, it will load the level.
-The you need to load the sublevels over on right. Highlight all of the - right click - load. It may take a moment.
+# When UE4 opens and you get a black screen navigate to Content/Neopets_The_Darkest_Faerie/01-Maps-01/Neopia and double click the level, it will load the level. Then you need to load the sublevels over on the right. Highlight all - right click - load. It may take a moment.
 
 <img width="1164" height="1965" alt="Screenshot 2026-01-17 092846" src="https://github.com/user-attachments/assets/1144911c-c642-47a2-a60b-3f53b467f3a9" />
 
