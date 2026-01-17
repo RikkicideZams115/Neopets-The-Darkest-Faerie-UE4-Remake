@@ -1,6 +1,10 @@
 # Neopets The Darkest Faerie UE4 Remake
 
 Developed with Unreal Engine 4
+
+When UE4 opens and you get a black screen navigate to Content/Neopets_The_Darkest_Faerie/01-Maps-01/Neopia and double click the level, it will load the level.
+The you need to load the sublevels over on right. Highlight all of the - right click - load. It may take a moment.
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 092426" src="https://github.com/user-attachments/assets/dc251b08-e885-4c7c-8e55-065ab643d259" />
 ![Screenshot (127)](https://github.com/user-attachments/assets/ccd02440-b220-41f2-bf3b-17a315b107b7)
 <img width="1928" height="1116" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/c6164208-db94-49f7-b54a-e67fdc725a2f" />
 <img width="1921" height="1113" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/7b0aeaf5-d064-4424-aca3-d05c5c27a0b3" />
