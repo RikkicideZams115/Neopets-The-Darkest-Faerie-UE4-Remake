@@ -9,6 +9,8 @@ Then click on the Levels tab next to the World Outline tab, select all the level
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-17 093147" src="https://github.com/user-attachments/assets/4c57d4c0-d450-4bd4-b647-6a2b3343d863" />
 
+<img width="1920" height="100" alt="Sepperator" src="https://github.com/user-attachments/assets/ba533477-db29-401c-bf1b-c0966457eb8d" />
+
 After your viewport looks like mine, you can click play and run around the world. You should run it in a standalone game, which you can find with the dropdown arrow
 and select standalone game. Save anything that says it needs to save.
 
@@ -17,8 +19,8 @@ you want but there is a possibilty of falling through the world. Just make sure 
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-17 095210" src="https://github.com/user-attachments/assets/ef414ff0-b83d-46a0-bbe7-32da9509f93f" />
 <img width="1920" height="100" alt="Sepperator" src="https://github.com/user-attachments/assets/bb20e8df-64da-418a-b00d-48c8a95fb010" />
-![Screenshot (127)](https://github.com/user-attachments/assets/ccd02440-b220-41f2-bf3b-17a315b107b7)
-<img width="1928" height="1116" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/c6164208-db94-49f7-b54a-e67fdc725a2f" />
+
+<img width="1919" height="1110" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/fbe379e3-6372-4a81-8128-cf281a18d4ca" />
 <img width="1921" height="1113" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/7b0aeaf5-d064-4424-aca3-d05c5c27a0b3" />
 <img width="1917" height="1105" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/d49b524f-6fec-4a8a-9116-598f2ad720df" />
 <img width="1924" height="1112" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/d0bc9fa6-c538-4cad-b4b0-bc362f234778" />
@@ -35,7 +37,6 @@ you want but there is a possibilty of falling through the world. Just make sure 
 <img width="1922" height="1116" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/b4a42118-7785-4de3-9346-5b9c8fea7a0e" />
 <img width="1921" height="1113" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/85c6ff2a-73ca-4cd6-80cc-dd80e77af676" />
 <img width="1916" height="1110" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/79a1d091-2f80-4851-ad12-64fab67663ec" />
-![Uploading Screenshot (136).png…]()
 <img width="1928" height="1116" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/da4e2010-c987-4aa8-a155-156441605705" />
 <img width="1922" height="1110" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/76287247-252a-4cff-bf16-bff25de4b6bb" />
 <img width="1922" height="1110" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/df0a8d26-762b-4cc0-ad3c-bcc0e10a100e" />
