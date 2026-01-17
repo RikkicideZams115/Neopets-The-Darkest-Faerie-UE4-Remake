@@ -1,10 +1,23 @@
 # Neopets The Darkest Faerie UE4 Remake
 
-Developed with Unreal Engine 4
 
-# When UE4 opens and you get a black screen navigate to Content/Neopets_The_Darkest_Faerie/01-Maps-01/Neopia and double click the level, it will load the level. Then you need to load the sublevels over on the right. Highlight all - right click - load. It may take a moment.
+When UE4 opens and you get a black screen navigate to Content/Neopets_The_Darkest_Faerie/01-Maps-01/Neopia and double click the level, it will load the level.
 
-<img width="1164" height="1965" alt="Screenshot 2026-01-17 092846" src="https://github.com/user-attachments/assets/1144911c-c642-47a2-a60b-3f53b467f3a9" />
+Next on the right under "World Outline" hide the folders - Player Character, Reference Maps, and Trigger Volumes.
+
+Then click on the Levels tab next to the World Outline tab, select all the levels, right click, and click load.
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 093147" src="https://github.com/user-attachments/assets/4c57d4c0-d450-4bd4-b647-6a2b3343d863" />
+
+
+After your viewport looks like mine, you can click play and run around the world. You should run it in a standalone game, which you can find with the dropdown arrow
+and select standalone game. Save anything that says it needs to save.
+
+Wherever the Player Start is, is where the player will start. You can move it around wherever 
+you want but there is a possibilty of falling through the world. Just make sure it is above the landscape enough.
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 095210" src="https://github.com/user-attachments/assets/ef414ff0-b83d-46a0-bbe7-32da9509f93f" />
+
 
 ![Screenshot (127)](https://github.com/user-attachments/assets/ccd02440-b220-41f2-bf3b-17a315b107b7)
 <img width="1928" height="1116" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/c6164208-db94-49f7-b54a-e67fdc725a2f" />
